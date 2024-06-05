@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f49a013-3950-452c-8335-27642cfd8bd4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Person/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Person/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Person/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Person/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Person/Person.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Person/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ya/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ya/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ya/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ya/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ya/Ya.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ya/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculater/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculater/.idea/calculater.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculater/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculater/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculater/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculater/desktop-tutorial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sasa/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sasa/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sasa/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sasa/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sasa/sasas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sasa/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/ClassesAndObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/untitled2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2hKvtOhaqkli9jruqvn3OdotZsd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Ashan/IdeaProjects/Calcu/src/Main.java&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f49a013-3950-452c-8335-27642cfd8bd4" name="Changes" comment="" />
+      <created>1717355798216</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717355798216</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Calculator.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
